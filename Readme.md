@@ -1,0 +1,2 @@
+# If ve else komut blokları kullanılarak ders ortalaması hesaplayan ve 55 veya üstünde geçtiğimizi belirten bir uygulama yazıldı
+# 0'dan küçük veya 100'den büyük ders notları ortalamaya ***dahil edilmedi.***
